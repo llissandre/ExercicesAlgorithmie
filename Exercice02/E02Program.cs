@@ -1,5 +1,4 @@
-﻿
-//affiche sur la console : "Rentrer un nombre:"
+﻿//affiche sur la console : "Rentrer un nombre:"
 Console.WriteLine("Rentrez un nombre :");
 
 //récupère le nombre donné par l'utilisateur et le range dans
