@@ -23,7 +23,7 @@ for (int Iterateur = 0; Iterateur < NB_NOTES; Iterateur++)
     {
         Notesinferieures++;
     }
-        Somme += Notes[Iterateur];
+    Somme += Notes[Iterateur];
 }
 
 float moyenne = Somme / NB_NOTES; //Calculer la moyenne
