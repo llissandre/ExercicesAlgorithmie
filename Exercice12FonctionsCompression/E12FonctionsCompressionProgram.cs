@@ -23,36 +23,28 @@ void Compression(string Chaine1)
     string Chaine2 = "";
     int It2 = 1;
 
-    //for (int It1 = 1; It1 < Chaine1.Length; It1++)
-    //{
-    //    if (Chaine1[It1] == Chaine1[It1 - 1])
-    //    {
-    //        It2++;
-    //    }
-
-    //    else
-    //    {
-    //        Chaine2 += It2;
-    //        Chaine2 += Chaine1[It1 - 1];
-    //        It2 = 1;
-    //    }
-    //}
-    //Console.WriteLine("La compression du texte saisi est : " + Chaine2);
-
-    for (int It1 = 0; It1 < Chaine1.Length-1; It1++)
+    for (int It1 = 0; It1 < Chaine1.Length; It1++)
     {
-        if (Chaine1[It1] == Chaine1[It1 + 1])
+        if (It1 < Chaine1.Length - 1)
         {
-            It2++;
-        }
+            if (Chaine1[It1] == Chaine1[It1 + 1])
+            {
+                It2++;
+            }
 
+            else
+            {
+                Chaine2 += It2;
+                Chaine2 += Chaine1[It1];
+                It2 = 1;
+            }
+        }
         else
         {
             Chaine2 += It2;
             Chaine2 += Chaine1[It1];
-            It2 = 1;
         }
     }
-    Console.WriteLine("La compression du texte saisi est : " + Chaine2);
 
+    Console.WriteLine("La compression du texte saisi est : " + Chaine2);
 }
