@@ -3,189 +3,189 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice01", "Exercice01\Exercice01.csproj", "{9A711C6B-820D-4832-ACC2-DC100915EFFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice01", "Exercice01\Exercice01.csproj", "{9A711C6B-820D-4832-ACC2-DC100915EFFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice01Fonctions", "Exercice01Fonctions\Exercice01Fonctions.csproj", "{92867AD3-6636-4D7B-A009-5E13D8751F91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice01Fonctions", "Exercice01Fonctions\Exercice01Fonctions.csproj", "{92867AD3-6636-4D7B-A009-5E13D8751F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice01Tableau", "Exercice01Tableau\Exercice01Tableau.csproj", "{775186EA-8384-4687-B580-2B58ABCBC240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice01Tableau", "Exercice01Tableau\Exercice01Tableau.csproj", "{775186EA-8384-4687-B580-2B58ABCBC240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice02", "Exercice02\Exercice02.csproj", "{7E71E9E7-7A35-4949-BE46-2CC70116181B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice02", "Exercice02\Exercice02.csproj", "{7E71E9E7-7A35-4949-BE46-2CC70116181B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice02Fonctions", "Exercice02Fonctions\Exercice02Fonctions.csproj", "{6801F41C-AAF9-4B7A-BAE8-3CB7000C481F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice02Fonctions", "Exercice02Fonctions\Exercice02Fonctions.csproj", "{6801F41C-AAF9-4B7A-BAE8-3CB7000C481F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice02Tableau", "Exercice02Tableau\Exercice02Tableau.csproj", "{16623A1A-A213-4947-8090-9527E8508D34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice02Tableau", "Exercice02Tableau\Exercice02Tableau.csproj", "{16623A1A-A213-4947-8090-9527E8508D34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice03", "Exercice03\Exercice03.csproj", "{3E684C77-B1D9-4A74-A0C4-C7EC1E0867DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice03", "Exercice03\Exercice03.csproj", "{3E684C77-B1D9-4A74-A0C4-C7EC1E0867DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice03Fonctions", "Exercice03Fonctions\Exercice03Fonctions.csproj", "{7F83DF4E-8C3B-44E8-AECD-B2D4C6ED98F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice03Fonctions", "Exercice03Fonctions\Exercice03Fonctions.csproj", "{7F83DF4E-8C3B-44E8-AECD-B2D4C6ED98F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice03Tableau", "Exercice03Tableau\Exercice03Tableau.csproj", "{7CA3CB89-0CED-409D-96B6-6816A8075000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice03Tableau", "Exercice03Tableau\Exercice03Tableau.csproj", "{7CA3CB89-0CED-409D-96B6-6816A8075000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice04", "Exercice04\Exercice04.csproj", "{078FED8C-7791-4742-B0A5-008FC8F1406A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice04", "Exercice04\Exercice04.csproj", "{078FED8C-7791-4742-B0A5-008FC8F1406A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice04Fonctions", "Exercice04Fonctions\Exercice04Fonctions.csproj", "{E2A56487-62EC-43FF-BB8C-F62D5B5A000E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice04Fonctions", "Exercice04Fonctions\Exercice04Fonctions.csproj", "{E2A56487-62EC-43FF-BB8C-F62D5B5A000E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice04Tableau", "Exercice04Tableau\Exercice04Tableau.csproj", "{47A50A58-3B34-49E0-BF91-9BEC2922BF2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice04Tableau", "Exercice04Tableau\Exercice04Tableau.csproj", "{47A50A58-3B34-49E0-BF91-9BEC2922BF2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice05", "Exercice05\Exercice05.csproj", "{7461CDF8-BD63-40D5-A1CD-EBEEB4EFBA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice05", "Exercice05\Exercice05.csproj", "{7461CDF8-BD63-40D5-A1CD-EBEEB4EFBA83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice05AvecDesCaracteres", "Exercice05AvecDesCaracteres\Exercice05AvecDesCaracteres.csproj", "{570EEAF9-14E4-4751-AE0F-D375DBF0C232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice05AvecDesCaracteres", "Exercice05AvecDesCaracteres\Exercice05AvecDesCaracteres.csproj", "{570EEAF9-14E4-4751-AE0F-D375DBF0C232}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice05Fonctions", "Exercice05Fonctions\Exercice05Fonctions.csproj", "{4359859E-078E-4A1B-8855-7ED6D60DF2B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice05Fonctions", "Exercice05Fonctions\Exercice05Fonctions.csproj", "{4359859E-078E-4A1B-8855-7ED6D60DF2B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice05Tableau", "Exercice05Tableau\Exercice05Tableau.csproj", "{918CD4FB-5839-4A47-95EA-17523B4758DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice05Tableau", "Exercice05Tableau\Exercice05Tableau.csproj", "{918CD4FB-5839-4A47-95EA-17523B4758DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice06", "Exercice06\Exercice06.csproj", "{3B15816A-63FD-41FE-A876-2EC598CC904B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice06", "Exercice06\Exercice06.csproj", "{3B15816A-63FD-41FE-A876-2EC598CC904B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice06Bis", "Exercice06Bis\Exercice06Bis.csproj", "{83F248E3-8EAE-46B9-BFD8-BAA2D4613D97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice06Bis", "Exercice06Bis\Exercice06Bis.csproj", "{83F248E3-8EAE-46B9-BFD8-BAA2D4613D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice06Fonctions", "Exercice06Fonctions\Exercice06Fonctions.csproj", "{C6361DC0-EF11-402F-95D6-E22885EF884D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice06Fonctions", "Exercice06Fonctions\Exercice06Fonctions.csproj", "{C6361DC0-EF11-402F-95D6-E22885EF884D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice06Tableau", "Exercice06Tableau\Exercice06Tableau.csproj", "{876A4AD7-D961-47B7-8108-A3F7DEEA5681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice06Tableau", "Exercice06Tableau\Exercice06Tableau.csproj", "{876A4AD7-D961-47B7-8108-A3F7DEEA5681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice07", "Exercice07\Exercice07.csproj", "{67E9D6D7-2863-4792-9CC1-4AF18AEB9ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice07", "Exercice07\Exercice07.csproj", "{67E9D6D7-2863-4792-9CC1-4AF18AEB9ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice07Fonctions", "Exercice07Fonctions\Exercice07Fonctions.csproj", "{6A46E743-E4C7-4E14-B7BB-DDDA7D8E3DDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice07Fonctions", "Exercice07Fonctions\Exercice07Fonctions.csproj", "{6A46E743-E4C7-4E14-B7BB-DDDA7D8E3DDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice07Tableau", "Exercice07Tableau\Exercice07Tableau.csproj", "{3E6F022A-9789-4F9A-816A-B69F3A95417C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice07Tableau", "Exercice07Tableau\Exercice07Tableau.csproj", "{3E6F022A-9789-4F9A-816A-B69F3A95417C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice08", "Exercice08\Exercice08.csproj", "{B10E3E86-7C20-433D-BA8B-E95BFE5494BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice08", "Exercice08\Exercice08.csproj", "{B10E3E86-7C20-433D-BA8B-E95BFE5494BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice08FonctionsEstPremier", "Exercice08FonctionsEstPremier\Exercice08FonctionsEstPremier.csproj", "{8830AA1A-FC67-4BB2-81FD-C0C62A376609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice08FonctionsEstPremier", "Exercice08FonctionsEstPremier\Exercice08FonctionsEstPremier.csproj", "{8830AA1A-FC67-4BB2-81FD-C0C62A376609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice08Switch", "Exercice08Switch\Exercice08Switch.csproj", "{032913A9-08F7-47CC-8CB6-17F405352520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice08Switch", "Exercice08Switch\Exercice08Switch.csproj", "{032913A9-08F7-47CC-8CB6-17F405352520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice08Tableau", "Exercice08Tableau\Exercice08Tableau.csproj", "{7A793EE2-C9C7-48B0-9834-B042ACB4767D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice08Tableau", "Exercice08Tableau\Exercice08Tableau.csproj", "{7A793EE2-C9C7-48B0-9834-B042ACB4767D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice08TableauBis", "Exercice08TableauBis\Exercice08TableauBis.csproj", "{68AE4872-3971-4FF3-BEBA-C0FA99BF92E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice08TableauBis", "Exercice08TableauBis\Exercice08TableauBis.csproj", "{68AE4872-3971-4FF3-BEBA-C0FA99BF92E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice09", "Exercice09\Exercice09.csproj", "{12D40CFA-B373-4F26-936D-7FB2C7131AD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice09", "Exercice09\Exercice09.csproj", "{12D40CFA-B373-4F26-936D-7FB2C7131AD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice09Float", "Exercice09Float\Exercice09Float.csproj", "{2A805209-8680-437B-8F19-41F24E3AE950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice09Float", "Exercice09Float\Exercice09Float.csproj", "{2A805209-8680-437B-8F19-41F24E3AE950}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice09FonctionsPermutation", "Exercice09FonctionsPermutation\Exercice09FonctionsPermutation.csproj", "{CFB8BEB4-7A67-4A3D-BF44-7DE202391E7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice09FonctionsPermutation", "Exercice09FonctionsPermutation\Exercice09FonctionsPermutation.csproj", "{CFB8BEB4-7A67-4A3D-BF44-7DE202391E7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice09Switch", "Exercice09Switch\Exercice09Switch.csproj", "{D752E1A6-AEB3-4D85-B5E0-47E07126C639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice09Switch", "Exercice09Switch\Exercice09Switch.csproj", "{D752E1A6-AEB3-4D85-B5E0-47E07126C639}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice09Tableau", "Exercice09Tableau\Exercice09Tableau.csproj", "{2B7A141A-3FB0-4565-9FC5-5A1C48CA96EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice09Tableau", "Exercice09Tableau\Exercice09Tableau.csproj", "{2B7A141A-3FB0-4565-9FC5-5A1C48CA96EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice09TableauTriParInsertion", "Exercice09TableauTriParInsertion\Exercice09TableauTriParInsertion.csproj", "{07966177-9589-4C40-8278-0BA14D2EDC28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice09TableauTriParInsertion", "Exercice09TableauTriParInsertion\Exercice09TableauTriParInsertion.csproj", "{07966177-9589-4C40-8278-0BA14D2EDC28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10", "Exercice10\Exercice10.csproj", "{AB3A220F-2979-43EC-801A-53D52E58BC4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10", "Exercice10\Exercice10.csproj", "{AB3A220F-2979-43EC-801A-53D52E58BC4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10Bis", "Exercice10Bis\Exercice10Bis.csproj", "{2825452E-E897-472A-8216-97FED37FF49B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10Bis", "Exercice10Bis\Exercice10Bis.csproj", "{2825452E-E897-472A-8216-97FED37FF49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10Corrige", "Exercice10Corrige\Exercice10Corrige.csproj", "{EDAFEA9E-FB59-40F2-ACA6-7D1C82BDB845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10Corrige", "Exercice10Corrige\Exercice10Corrige.csproj", "{EDAFEA9E-FB59-40F2-ACA6-7D1C82BDB845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10FonctionsConversionEnBinaire", "Exercice10FonctionsConversionEnBinaire\Exercice10FonctionsConversionEnBinaire.csproj", "{FD36E887-247D-46E9-A018-5FDECBFF0D67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10FonctionsConversionEnBinaire", "Exercice10FonctionsConversionEnBinaire\Exercice10FonctionsConversionEnBinaire.csproj", "{FD36E887-247D-46E9-A018-5FDECBFF0D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10FonctionsConversionEnBinaireAvecConvert", "Exercice10FonctionsConversionEnBinaireAvecConvert\Exercice10FonctionsConversionEnBinaireAvecConvert.csproj", "{C9F14A0C-2825-4C5E-909E-A8F05F9D960E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10FonctionsConversionEnBinaireAvecConvert", "Exercice10FonctionsConversionEnBinaireAvecConvert\Exercice10FonctionsConversionEnBinaireAvecConvert.csproj", "{C9F14A0C-2825-4C5E-909E-A8F05F9D960E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10RandomName", "Exercice10RandomName\Exercice10RandomName.csproj", "{91AEDCB2-1E67-4454-824C-359AC72497DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10RandomName", "Exercice10RandomName\Exercice10RandomName.csproj", "{91AEDCB2-1E67-4454-824C-359AC72497DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10RandomNameBis", "Exercice10RandomNameBis\Exercice10RandomNameBis.csproj", "{CB6C137D-517C-450A-A22B-32F5C293FDFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10RandomNameBis", "Exercice10RandomNameBis\Exercice10RandomNameBis.csproj", "{CB6C137D-517C-450A-A22B-32F5C293FDFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10RandomNamePlusieursNoms", "Exercice10RandomNamePlusieursNoms\Exercice10RandomNamePlusieursNoms.csproj", "{B5ACCC98-8434-4E59-9C32-20455911AB35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10RandomNamePlusieursNoms", "Exercice10RandomNamePlusieursNoms\Exercice10RandomNamePlusieursNoms.csproj", "{B5ACCC98-8434-4E59-9C32-20455911AB35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10RandomNamePlusieursNomsBis", "Exercice10RandomNamePlusieursNomsBis\Exercice10RandomNamePlusieursNomsBis.csproj", "{47A78E3A-9897-411B-B8F1-2716E3C3F516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10RandomNamePlusieursNomsBis", "Exercice10RandomNamePlusieursNomsBis\Exercice10RandomNamePlusieursNomsBis.csproj", "{47A78E3A-9897-411B-B8F1-2716E3C3F516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice10Switch", "Exercice10Switch\Exercice10Switch.csproj", "{00F9C1CC-9F68-46B7-A4CC-31BC3A0DE14A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice10Switch", "Exercice10Switch\Exercice10Switch.csproj", "{00F9C1CC-9F68-46B7-A4CC-31BC3A0DE14A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11", "Exercice11\Exercice11.csproj", "{DC4C3451-A01A-4B79-90F5-D58E6FC271A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11", "Exercice11\Exercice11.csproj", "{DC4C3451-A01A-4B79-90F5-D58E6FC271A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11AvecDesCaracteres", "Exercice11AvecDesCaracteres\Exercice11AvecDesCaracteres.csproj", "{5270625B-9DDB-4064-80DF-8ADD834505B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11AvecDesCaracteres", "Exercice11AvecDesCaracteres\Exercice11AvecDesCaracteres.csproj", "{5270625B-9DDB-4064-80DF-8ADD834505B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11FonctionsInversionDeChaine", "Exercice11FonctionsInversionDeChaine\Exercice11FonctionsInversionDeChaine.csproj", "{FA668F8E-2BCB-4632-8DB1-A370BD60F96B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11FonctionsInversionDeChaine", "Exercice11FonctionsInversionDeChaine\Exercice11FonctionsInversionDeChaine.csproj", "{FA668F8E-2BCB-4632-8DB1-A370BD60F96B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11FonctionsInversionDeChaineEstPalindrome", "Exercice11FonctionsInversionDeChaineEstPalindrome\Exercice11FonctionsInversionDeChaineEstPalindrome.csproj", "{E5F96837-4C51-4AFD-AC15-7E7E3D54597D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11FonctionsInversionDeChaineEstPalindrome", "Exercice11FonctionsInversionDeChaineEstPalindrome\Exercice11FonctionsInversionDeChaineEstPalindrome.csproj", "{E5F96837-4C51-4AFD-AC15-7E7E3D54597D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11RechercheDichotomiqueIterative", "Exercice11RechercheDichotomiqueIterative\Exercice11RechercheDichotomiqueIterative.csproj", "{ABA8E3A3-EEFA-479E-993A-867D1CF71666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11RechercheDichotomiqueIterative", "Exercice11RechercheDichotomiqueIterative\Exercice11RechercheDichotomiqueIterative.csproj", "{ABA8E3A3-EEFA-479E-993A-867D1CF71666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11RechercheDichotomiqueRecursive", "Exercice11RechercheDichotomiqueRecursive\Exercice11RechercheDichotomiqueRecursive.csproj", "{EF961813-DE27-4F20-837A-8FBA2BB6D0D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11RechercheDichotomiqueRecursive", "Exercice11RechercheDichotomiqueRecursive\Exercice11RechercheDichotomiqueRecursive.csproj", "{EF961813-DE27-4F20-837A-8FBA2BB6D0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice11Switch", "Exercice11Switch\Exercice11Switch.csproj", "{938FC9E9-EC9E-4832-9329-75F6B3DD66D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice11Switch", "Exercice11Switch\Exercice11Switch.csproj", "{938FC9E9-EC9E-4832-9329-75F6B3DD66D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice12", "Exercice12\Exercice12.csproj", "{201C2BAD-D6A7-47D7-919B-41C04A77C1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice12", "Exercice12\Exercice12.csproj", "{201C2BAD-D6A7-47D7-919B-41C04A77C1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice12Bis", "Exercice12Bis\Exercice12Bis.csproj", "{711BA5D7-205B-4D56-AB96-379D6683180A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice12Bis", "Exercice12Bis\Exercice12Bis.csproj", "{711BA5D7-205B-4D56-AB96-379D6683180A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice12FonctionsCompression", "Exercice12FonctionsCompression\Exercice12FonctionsCompression.csproj", "{963FDB5D-E3A4-49FC-8A55-3AC3F38235BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice12FonctionsCompression", "Exercice12FonctionsCompression\Exercice12FonctionsCompression.csproj", "{963FDB5D-E3A4-49FC-8A55-3AC3F38235BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice12Switch", "Exercice12Switch\Exercice12Switch.csproj", "{BF67C3D0-9CBA-44F3-AA51-34DDE0D0EE64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice12Switch", "Exercice12Switch\Exercice12Switch.csproj", "{BF67C3D0-9CBA-44F3-AA51-34DDE0D0EE64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice13", "Exercice13\Exercice13.csproj", "{5C555927-8D85-4582-8AFF-C7DC44A9846A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice13", "Exercice13\Exercice13.csproj", "{5C555927-8D85-4582-8AFF-C7DC44A9846A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice13Bis", "Exercice13Bis\Exercice13Bis.csproj", "{D03DF184-33E6-4112-AAFA-6B638D2A3A75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice13Bis", "Exercice13Bis\Exercice13Bis.csproj", "{D03DF184-33E6-4112-AAFA-6B638D2A3A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice13FonctionsCodeCesar", "Exercice13FonctionsCodeCesar\Exercice13FonctionsCodeCesar.csproj", "{868354D8-5773-4A95-A80F-85114DB97B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice13FonctionsCodeCesar", "Exercice13FonctionsCodeCesar\Exercice13FonctionsCodeCesar.csproj", "{868354D8-5773-4A95-A80F-85114DB97B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice13FonctionsCodeCesarEtape2", "Exercice13FonctionsCodeCesarEtape2\Exercice13FonctionsCodeCesarEtape2.csproj", "{F77CE3DC-D999-4DF7-904F-7EFE714C07F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice13FonctionsCodeCesarEtape2", "Exercice13FonctionsCodeCesarEtape2\Exercice13FonctionsCodeCesarEtape2.csproj", "{F77CE3DC-D999-4DF7-904F-7EFE714C07F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice13Switch", "Exercice13Switch\Exercice13Switch.csproj", "{D5C0F30D-BCAE-4D5E-B1E7-A517679C9AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice13Switch", "Exercice13Switch\Exercice13Switch.csproj", "{D5C0F30D-BCAE-4D5E-B1E7-A517679C9AD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice13SwitchBis", "Exercice13SwitchBis\Exercice13SwitchBis.csproj", "{A7C7C6AA-B885-4AE0-BA70-7147BF8513A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice13SwitchBis", "Exercice13SwitchBis\Exercice13SwitchBis.csproj", "{A7C7C6AA-B885-4AE0-BA70-7147BF8513A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice14", "Exercice14\Exercice14.csproj", "{C5367471-D599-4B66-8045-DD650B644B68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice14", "Exercice14\Exercice14.csproj", "{C5367471-D599-4B66-8045-DD650B644B68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice14Corrige", "Exercice14Corrige\Exercice14Corrige.csproj", "{6A4DC62A-AC2A-4DB8-94F0-0077168A0513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice14Corrige", "Exercice14Corrige\Exercice14Corrige.csproj", "{6A4DC62A-AC2A-4DB8-94F0-0077168A0513}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice14FonctionsFactorielle", "Exercice14FonctionsFactorielle\Exercice14FonctionsFactorielle.csproj", "{AD7EA34A-7BC2-454E-A727-A091E5E7D1F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice14FonctionsFactorielle", "Exercice14FonctionsFactorielle\Exercice14FonctionsFactorielle.csproj", "{AD7EA34A-7BC2-454E-A727-A091E5E7D1F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice14Switch", "Exercice14Switch\Exercice14Switch.csproj", "{FC73DBF0-E7E2-4446-AFFC-0E9B750FEB79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice14Switch", "Exercice14Switch\Exercice14Switch.csproj", "{FC73DBF0-E7E2-4446-AFFC-0E9B750FEB79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice15", "Exercice15\Exercice15.csproj", "{D80F1642-65CD-4FF3-917B-E207CF822A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice15", "Exercice15\Exercice15.csproj", "{D80F1642-65CD-4FF3-917B-E207CF822A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice15Bis", "Exercice15Bis\Exercice15Bis.csproj", "{BD49202B-A78E-43A4-AD57-41EB389F652E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice15Bis", "Exercice15Bis\Exercice15Bis.csproj", "{BD49202B-A78E-43A4-AD57-41EB389F652E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice15Switch", "Exercice15Switch\Exercice15Switch.csproj", "{5AC74085-78D5-4AFF-8EBD-3D62A28D60B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice15Switch", "Exercice15Switch\Exercice15Switch.csproj", "{5AC74085-78D5-4AFF-8EBD-3D62A28D60B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice16", "Exercice16\Exercice16.csproj", "{F3066644-2BE0-4531-8AF0-1A8EA5582D06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice16", "Exercice16\Exercice16.csproj", "{F3066644-2BE0-4531-8AF0-1A8EA5582D06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice16Bis", "Exercice16Bis\Exercice16Bis.csproj", "{B41249C0-EACF-4D52-A661-16FD43594731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice16Bis", "Exercice16Bis\Exercice16Bis.csproj", "{B41249C0-EACF-4D52-A661-16FD43594731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice16BoucleFor", "Exercice16BoucleFor\Exercice16BoucleFor.csproj", "{DCFD55B5-0C75-4193-82AE-C0D7F9E72860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice16BoucleFor", "Exercice16BoucleFor\Exercice16BoucleFor.csproj", "{DCFD55B5-0C75-4193-82AE-C0D7F9E72860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice16BoucleForAvecNA5", "Exercice16BoucleForAvecNA5\Exercice16BoucleForAvecNA5.csproj", "{47DDEFA5-3CDD-4548-A12D-100688AE0DF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice16BoucleForAvecNA5", "Exercice16BoucleForAvecNA5\Exercice16BoucleForAvecNA5.csproj", "{47DDEFA5-3CDD-4548-A12D-100688AE0DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice16Factorielle", "Exercice16Factorielle\Exercice16Factorielle.csproj", "{60D6CA72-5AFA-4EC4-B28B-560E2E078740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice16Factorielle", "Exercice16Factorielle\Exercice16Factorielle.csproj", "{60D6CA72-5AFA-4EC4-B28B-560E2E078740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice16InspireParLaFactorielle", "Exercice16InspireParLaFactorielle\Exercice16InspireParLaFactorielle.csproj", "{044766FF-9532-4683-8527-B5332003FC03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice16InspireParLaFactorielle", "Exercice16InspireParLaFactorielle\Exercice16InspireParLaFactorielle.csproj", "{044766FF-9532-4683-8527-B5332003FC03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice17", "Exercice17\Exercice17.csproj", "{EA4BE2C4-155B-4A02-AFD2-42505AA9F32F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice17", "Exercice17\Exercice17.csproj", "{EA4BE2C4-155B-4A02-AFD2-42505AA9F32F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice17Bis", "Exercice17Bis\Exercice17Bis.csproj", "{4CC36392-7379-415B-8630-EA8E0E5B57EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice17Bis", "Exercice17Bis\Exercice17Bis.csproj", "{4CC36392-7379-415B-8630-EA8E0E5B57EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice18", "Exercice18\Exercice18.csproj", "{18A8492D-D3DC-4279-8E56-B9FACFD87011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice18", "Exercice18\Exercice18.csproj", "{18A8492D-D3DC-4279-8E56-B9FACFD87011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice19", "Exercice19\Exercice19.csproj", "{034B7887-5F5F-4619-805A-8567264586BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice19", "Exercice19\Exercice19.csproj", "{034B7887-5F5F-4619-805A-8567264586BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice19BoucleFor", "Exercice19BoucleFor\Exercice19BoucleFor.csproj", "{109157A1-BB5A-4063-A77D-B1A883B79FCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice19BoucleFor", "Exercice19BoucleFor\Exercice19BoucleFor.csproj", "{109157A1-BB5A-4063-A77D-B1A883B79FCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice19FactorielleRecursif", "Exercice19FactorielleRecursif\Exercice19FactorielleRecursif.csproj", "{D9DB33AE-1E10-4AAA-97A2-76724123C40A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice19FactorielleRecursif", "Exercice19FactorielleRecursif\Exercice19FactorielleRecursif.csproj", "{D9DB33AE-1E10-4AAA-97A2-76724123C40A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice20", "Exercice20\Exercice20.csproj", "{09BAAFFB-4E4D-4C3C-96BE-2FA929ABFFCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice20", "Exercice20\Exercice20.csproj", "{09BAAFFB-4E4D-4C3C-96BE-2FA929ABFFCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice20AvecDoWhile", "Exercice20AvecDoWhile\Exercice20AvecDoWhile.csproj", "{FBA7B6E9-0A7A-472D-874A-E618202B843B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice20AvecDoWhile", "Exercice20AvecDoWhile\Exercice20AvecDoWhile.csproj", "{FBA7B6E9-0A7A-472D-874A-E618202B843B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice21AvecDoWhile", "Exercice21AvecDoWhile\Exercice21AvecDoWhile.csproj", "{E141C0D3-6F17-4ADB-857C-3064B3EE2FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice21AvecDoWhile", "Exercice21AvecDoWhile\Exercice21AvecDoWhile.csproj", "{E141C0D3-6F17-4ADB-857C-3064B3EE2FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice21AvecDoWhileBooleen", "Exercice21AvecDoWhileBooleen\Exercice21AvecDoWhileBooleen.csproj", "{9F78170F-FAEA-477F-BCB9-C63A35AC9114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice21AvecDoWhileBooleen", "Exercice21AvecDoWhileBooleen\Exercice21AvecDoWhileBooleen.csproj", "{9F78170F-FAEA-477F-BCB9-C63A35AC9114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice21AvecWhile", "Exercice21AvecWhile\Exercice21AvecWhile.csproj", "{DE2F1942-CD62-4250-975E-8002D153CC09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice21AvecWhile", "Exercice21AvecWhile\Exercice21AvecWhile.csproj", "{DE2F1942-CD62-4250-975E-8002D153CC09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice22Etape1", "Exercice22Etape1\Exercice22Etape1.csproj", "{ABAA2006-FFDC-4156-A61B-57624A4DEC42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice22Etape1", "Exercice22Etape1\Exercice22Etape1.csproj", "{ABAA2006-FFDC-4156-A61B-57624A4DEC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice22Etape2", "Exercice22Etape2\Exercice22Etape2.csproj", "{09EAD586-6080-4EA7-82F9-83C8BFA7EFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice22Etape2", "Exercice22Etape2\Exercice22Etape2.csproj", "{09EAD586-6080-4EA7-82F9-83C8BFA7EFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice23", "Exercice23\Exercice23.csproj", "{7926077F-D464-41E8-A380-DB41E70D71F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice23", "Exercice23\Exercice23.csproj", "{7926077F-D464-41E8-A380-DB41E70D71F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice23Booleen", "Exercice23Booleen\Exercice23Booleen.csproj", "{1A3D4819-646E-470C-8680-9E5827021DA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice23Booleen", "Exercice23Booleen\Exercice23Booleen.csproj", "{1A3D4819-646E-470C-8680-9E5827021DA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice24", "Exercice24\Exercice24.csproj", "{C21632FF-53E1-445D-829A-EC75AA972C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice24", "Exercice24\Exercice24.csproj", "{C21632FF-53E1-445D-829A-EC75AA972C0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice24Bis", "Exercice24Bis\Exercice24Bis.csproj", "{C254507A-6128-4023-9276-63F44F29BAD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice24Bis", "Exercice24Bis\Exercice24Bis.csproj", "{C254507A-6128-4023-9276-63F44F29BAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{651DB496-9CFD-41DF-BD81-D10A9C54101E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test1", "Test1\Test1.csproj", "{651DB496-9CFD-41DF-BD81-D10A9C54101E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

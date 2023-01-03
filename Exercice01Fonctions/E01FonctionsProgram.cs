@@ -4,17 +4,23 @@
 
 //Tester l'appel de la procédure dans un Main.
 
-string DireBonjour(string Prenom, string Nom)
+void DireBonjour(string Prenom, string Nom)
 {
     Console.WriteLine($"Bonjour {Prenom} {Nom} !");
-    return Console.ReadLine();
 }
 
 string DemanderPrenomNom(string Phrase)
 {
     Console.Write(Phrase);
-    return Console.ReadLine();
+    string? Valeur;
+    do
+    {
+        Valeur = Console.ReadLine(); 
+    } while (Valeur == null || Valeur == "");
+
+    return Valeur;
 }
+
 
 string Prenom = DemanderPrenomNom("Écris ton Prénom : ");
 string Nom = DemanderPrenomNom("Écris ton Nom : ");
