@@ -7,7 +7,7 @@ int Iterateur2 = 0;
 
 for (int Iterateur1 = 0; Iterateur1 <= Tableau1.Length; Iterateur1++)
 {
-    if ((Iterateur1 == Tableau1.Length) && (Iterateur2 <= Tableau2.Length))
+    if ((Iterateur1 == Tableau1.Length) && (Iterateur2 < Tableau2.Length - 1))
     {
         Iterateur2++;
         Iterateur1 = 0;
@@ -16,8 +16,8 @@ for (int Iterateur1 = 0; Iterateur1 <= Tableau1.Length; Iterateur1++)
     if ((Iterateur1 < Tableau1.Length) && (Iterateur2 < Tableau2.Length))
     {
         Produit = Tableau1[Iterateur1] * Tableau2[Iterateur2];
+        Schtroumpf += Produit;
     }
-    Schtroumpf += Produit;
 }
 
 Console.WriteLine(Schtroumpf);
