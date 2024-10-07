@@ -62,7 +62,7 @@ for (int Iterateur = 0; Iterateur < Noms.Length; Iterateur++)
 }
 
 //demande le nombre de tirage souhaités
-int N = DemanderNbDeTirageSouhaite("\nCombien de tirages de tirage au sort souhaitez-vous effectuer ? ");
+int N = DemanderNbDeTirageSouhaite("\nCombien de tirages au sort souhaitez-vous effectuer ? ");
 //création du tableau pour insérer les noms tirés au sort
 string[] MotsTires = new string[N];
 
