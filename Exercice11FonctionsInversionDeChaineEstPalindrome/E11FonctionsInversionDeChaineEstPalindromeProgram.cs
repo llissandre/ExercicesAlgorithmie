@@ -38,12 +38,12 @@ bool EstPalindrome(string Chaine)
     if (Chaine.Equals(Chaine1))
     //if (Chaine==Chaine1)
     {
-        Console.WriteLine("Cette chaine de caratères est un palindrome");
+        Console.WriteLine("Cette chaine de caractères est un palindrome");
         return true;
     }
     else
     {
-        Console.WriteLine("Cette chaine de caratères n'est pas un palindrome");
+        Console.WriteLine("Cette chaine de caractères n'est pas un palindrome");
         return false;
     }
 }
